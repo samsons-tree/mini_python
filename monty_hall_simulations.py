@@ -38,5 +38,5 @@ def test_mh(switch, simulations):
     return results
 
 if __name__ == '__main__':
-    switch_results = test_mh(True)
-    stick_results = test_mh(False)
+    switch_results = test_mh(True, 1_000_000)
+    stick_results = test_mh(False, 1_000_000)
