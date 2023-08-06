@@ -9,6 +9,9 @@ A collection of home-made scripts to revise my python knowledge.
 #### insertion_sort.py
 - Common sorting algorithm with $\theta(n^2)$ complexity.
 
+#### selection_sort.py
+- Common sorting algorithm with $\theta(n^2)$ complexity.
+
 # Monty Hall
 #### monty_hall_game.py
 - Playable version of Monty Hall with "funny" host.
