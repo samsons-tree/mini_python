@@ -1,6 +1,13 @@
 # mini_python
 A collection of home-made scripts to revise my python knowledge.
 
+# Sorting algorithms
+#### bogosort.py
+- Inefficient sorting algorithm with $\theta((n-1)*n!)$ complexity.
+
+#### insertion_sort.py
+- Common sorting algorithm with $\theta(n^2)$ complexity.
+
 # Monty Hall
 #### monty_hall_game.py
 - Playable version of Monty Hall with "funny" host.
